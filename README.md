@@ -8,6 +8,8 @@
 [discord-badge]: https://img.shields.io/discord/659709894315868191
 [foundry]: https://getfoundry.sh
 [foundry-badge]: https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg
+[twitter-badge]: https://img.shields.io/twitter/follow/Sablier
+[twitter]: https://x.com/Sablier
 
 In-depth documentation is available at [docs.sablier.com](https://docs.sablier.com).
 
